@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Hassan</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansep03&label=Profile%20views&color=0e75b6&style=flat" alt="hassansep03" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Lane line detection**
+- 🔭 I’m currently working on **Digital Whiteboard**
 
 - 🌱 I’m currently learning **HTML,CSS,Python,C,C++,Java**
 
