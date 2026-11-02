@@ -21,62 +21,72 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Postman, Jira, Android Studio, Charles Proxy -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" alt="postman" height="40"/>
+    <img src="https://shields.io" alt="postman" height="35"/>
   </a>
   <a href="https://atlassian.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" alt="jira" height="40"/>
+    <img src="https://shields.io" alt="jira" height="35"/>
   </a>
   <a href="https://android.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" alt="androidstudio" height="40"/>
+    <img src="https://shields.io" alt="androidstudio" height="35"/>
   </a>
   <a href="https://charlesproxy.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="charles proxy" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="charles proxy" width="35" height="35"/>
   </a>
+  
+  <!-- AWS & Core Development -->
   <a href="https://amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="aws" width="40" height="40"/> 
+    <img src="https://shields.io" alt="aws" height="35"/> 
   </a> 
   <a href="https://cprogramming.com" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="c" width="40" height="40"/> 
+    <img src="https://shields.io" alt="c" height="35"/> 
   </a> 
   <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://shields.io++
+-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus" height="35"/> 
   </a> 
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> 
-  </a> 
+  
+  <!-- Frontend (HTML, CSS, JS, React) -->
   <a href="https://w3.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="java" width="40" height="40"/> 
+    <img src="https://shields.io" alt="html5" height="35"/> 
+  </a>
+  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.ioSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="35"/> 
   </a> 
   <a href="https://mozilla.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://linux.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer"> 
-    <img src="https://svgrepo.com" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://pydata.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> 
+    <img src="https://shields.io" alt="javascript" height="35"/> 
   </a> 
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://githubusercontent.com" alt="react" width="40" height="40"/> 
+    <img src="https://shields.io" alt="react" height="35"/> 
+  </a>
+  
+  <!-- Backend & Data (Java, Python, PHP, Node.js, Pandas) -->
+  <a href="https://java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="java" height="35"/> 
+  </a> 
+  <a href="https://python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="python" height="35"/> 
+  </a> 
+  <a href="https://php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="php" height="35"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="nodejs" height="35"/> 
+  </a> 
+  <a href="https://pydata.org" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="pandas" height="35"/> 
+  </a> 
+  
+  <!-- Databases & Systems (Linux, MSSQL, MySQL) -->
+  <a href="https://linux.org" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="linux" height="35"/> 
+  </a> 
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="mssql" height="35"/> 
+  </a> 
+  <a href="https://mysql.com" target="_blank" rel="noreferrer"> 
+    <img src="https://shields.io" alt="mysql" height="35"/> 
   </a> 
 </p>
 
