@@ -19,81 +19,101 @@
 <p align="left">
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  <!-- Postman, Jira, Android Studio, Charles Proxy -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" alt="postman" height="35"/>
+  <!-- Testing Tools -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="35"/>
   </a>
-  <a href="https://atlassian.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" alt="jira" height="35"/>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="35"/>
   </a>
-  <a href="https://android.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" alt="androidstudio" height="35"/>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" height="35"/>
   </a>
-  <a href="https://charlesproxy.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="charles proxy" width="35" height="35"/>
+  <a href="https://www.charlesproxy.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Charles_Proxy-8B5CF6?style=for-the-badge&logoColor=white" alt="Charles Proxy" height="35"/>
   </a>
-  
-  <!-- AWS & Core Development -->
-  <a href="https://amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="aws" height="35"/> 
-  </a> 
-  <a href="https://cprogramming.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="c" height="35"/> 
-  </a> 
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io++
--00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus" height="35"/> 
-  </a> 
-  
-  <!-- Frontend (HTML, CSS, JS, React) -->
-  <a href="https://w3.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="html5" height="35"/> 
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" height="35"/>
   </a>
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.ioSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="35"/> 
-  </a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="javascript" height="35"/> 
-  </a> 
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="react" height="35"/> 
+
+  <!-- Programming Languages -->
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="35"/>
   </a>
-  
-  <!-- Backend & Data (Java, Python, PHP, Node.js, Pandas) -->
-  <a href="https://java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="java" height="35"/> 
-  </a> 
-  <a href="https://python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="python" height="35"/> 
-  </a> 
-  <a href="https://php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="php" height="35"/> 
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="35"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="nodejs" height="35"/> 
-  </a> 
-  <a href="https://pydata.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="pandas" height="35"/> 
-  </a> 
-  
-  <!-- Databases & Systems (Linux, MSSQL, MySQL) -->
-  <a href="https://linux.org" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="linux" height="35"/> 
-  </a> 
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="mssql" height="35"/> 
-  </a> 
-  <a href="https://mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://shields.io" alt="mysql" height="35"/> 
-  </a> 
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="35"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="35"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="35"/>
+  </a>
+
+  <!-- Frontend Development -->
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="35"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="35"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="35"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="35"/>
+  </a>
+
+  <!-- Data Science -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="35"/>
+  </a>
+
+  <!-- Databases and Operating Systems -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" height="35"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="35"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://vercel.app" alt="hassansep03" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://vercel.app" alt="hassansep03" /></p>
+<h3 align="center">📊 GitHub Statistics</h3>
 
-<p><img align="center" src="https://herokuapp.com&" alt="hassansep03" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hassansep03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassansep03&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=hassansep03&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
