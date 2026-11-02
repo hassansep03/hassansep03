@@ -35,11 +35,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
   </a>
   <a href="https://www.charlesproxy.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/charles/charles-original.svg" width="40" height="40" alt="Charles Proxy"/>
-  </a>
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/charles-proxy-icon.png"
+       width="40" height="40" alt="Charles Proxy"/>
+</a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900"
+       width="40" height="40" alt="AWS"/>
+</a>
+<!-- Virtual Machine -->
+<a href="https://www.virtualbox.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61"
+       width="40" height="40" alt="VirtualBox"/>
+</a>
 
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -54,9 +61,7 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  </a>
+  
 
   <!-- Frontend Development -->
   <a href="https://html.spec.whatwg.org/" target="_blank">
