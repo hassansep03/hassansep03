@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Md Hassan</h1>
 <h3 align="center">A passionate Software developer and Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansep03&label=Profile%20views&color=0e75b6&style=flat" alt="hassansep03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassansep03" alt="hassansep03" /></a> </p>
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hassansep03&label=Profile%20views&color=0e75b6&style=flat"
+       alt="Profile Views"/>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- GitHub Profile Trophies -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=hassansep03&theme=onedark&no-frame=true&column=7"
+         alt="GitHub Profile Trophies"/>
+  </a>
+</p>
+
+
+<!-- LinkedIn Profile -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-hassan-466466230/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working as a **QA Testing Intern** at **A1QA**
 
